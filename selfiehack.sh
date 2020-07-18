@@ -3,12 +3,8 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "\e[1;92m   ░S░E░L░F░I░E░H░A░C░K░   \e[0m\n"
-printf "\e[1;92m   ░C░A░M░E░R░A░H░A░C░K░   \e[0m\n"
-printf "\e[1;92m   ░M░O░B░I░L░E░H░A░C░K░   \e[0m\n"
-printf "\e[1;92m    ░J░T░E░C░H░C░O░D░E░    \e[0m\n"
+printf "\e[1;92m   ░S░E░E░M░A░N░-░S░r░Z░   \e[0m\n"
 
-printf "\e[1;77m  !This is Stritly For Education Purpose Only! \e[0m \n"
 
 printf "\n"
 
