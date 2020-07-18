@@ -3,6 +3,13 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
+
+
+
+
+
+
+
 printf "\e[1;92m   ░S░E░E░M░A░N░-░S░r░Z░   \e[0m\n"
 
 
